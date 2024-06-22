@@ -10,6 +10,6 @@ This project is a simple digital clock that displays the current local time in y
 
 # Languages Used
 
-- **HTML
-- **CSS
-- **JavaScript
+- **HTML**
+- **CSS**
+- **JavaScript**
